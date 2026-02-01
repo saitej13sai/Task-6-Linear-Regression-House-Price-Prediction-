@@ -1,0 +1,18 @@
+House Price Prediction (Linear Regression)
+=========================================
+
+MAE : 970043.40
+RMSE: 1324506.96
+
+Top 10 features by absolute coefficient:
+                     feature    coefficient
+                   bathrooms  521879.027748
+                        area  519552.416340
+         airconditioning_yes  395713.367922
+          airconditioning_no -395713.367922
+                     stories  349251.438906
+          hotwaterheating_no -342324.942669
+         hotwaterheating_yes  342324.942669
+                prefarea_yes  314945.282657
+                 prefarea_no -314945.282657
+furnishingstatus_unfurnished -233469.435624
